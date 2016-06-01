@@ -1,0 +1,14 @@
+{
+  "index": {
+    "pageTitle": "Home"
+  },
+  "about": {
+    "pageTitle": "About"
+  },
+  "build": {
+    "pageTitle": "Build"
+  },
+  "gallery": {
+    "pageTitle": "Gallery"
+  }
+}
